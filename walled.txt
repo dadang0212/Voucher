@@ -1,0 +1,7 @@
+/ip hotspot walled-garden ip
+add action=accept disabled=no dst-host=member.labkom.co.id
+add action=accept disabled=no dst-host=tripay.co.id 
+add action=accept disabled=no dst-host=assets.tripay.co.id 
+add action=accept disabled=no dst-host=stackpath.bootstrapcdn.com 
+add action=accept disabled=no dst-host=cdnjs.cloudflare.com 
+add action=accept disabled=no dst-host=cdn.jsdelivr.net
